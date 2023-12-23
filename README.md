@@ -8,7 +8,7 @@ Install the dependencies with `npm ci`.
 
 ## Available Scripts
 
-In the project directory, you can run `npm start`. It will build and server the application locally.
+In the project directory, you can run `npm start`. It will build and serve the application locally.
 
 ## Learn More
 
@@ -16,24 +16,26 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-Article Link :-
+
+------------------------------------------------------------------------------------------------------------------------------------
+Article Link:-
 
 https://medium.com/@juliusaromskis/make-your-react-app-offline-ready-the-missing-guide-b047ea318f94#:~:text=Once%20the%20service%20worker%20is,the%20service%20worker%2C%20serving%20index
 
-If you want to see Offline Mode :- In Crome
+If you want to see Offline Mode:- In Chrome
 
 Navigate to the “Network” tab and toggle “Offline”
 
-Steps to Work With PWA in :-
+Steps to Work With PWA in:-
 
 https://www.freecodecamp.org/news/what-are-progressive-web-apps/
 
 Web app manifest The web app manifest is a JSON file that defines how the PWA should be treated as an installed application, including the look and feel and basic behavior within the operating system.
 
-Main Thing is :-
+Main Thing is:-
 
 workbox.ts
 
-also How the service work APIs that Store Data into a Client Side. ( Performing a Operation Without Networks).
+also How the service works, and APIs that Store the Data on the Client Side. ( Performing an Operation Without Networks).
 
-Build manifesto for What Services Need to Working in Offline MOde.
+Build a manifesto for What Services Need to Work in Offline Mode.
